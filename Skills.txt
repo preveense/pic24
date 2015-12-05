@@ -1,0 +1,17 @@
+//should follow asciidoctor guidelines
+
+
+Skills
+	.Programming
+		*Java
+		*PHP
+		*Python
+
+		*Firmware
+			*PIC24
+
+	.System Administration
+
+		*Linux
+		*Windows
+		
